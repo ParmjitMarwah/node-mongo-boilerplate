@@ -14,8 +14,8 @@ REQUIRED_CONFIG.forEach((key) => {
   }
 })
 
-const JWT_CONFIG = {
+const CRON_CONFIG = {
   CRON_TIME_SCHEDULE_REMINDER
 }
 
-export default JWT_CONFIG
+export default CRON_CONFIG
